@@ -1,0 +1,24 @@
+{
+  "productsList": "Products List",
+  "addNew": "Add New",
+  "productDetails": "Product Details",
+  "cancel": "Cancel",
+  "add": "Add",
+  "addNewModal": {
+    "title": "Add new product",
+    "text": "Do You really want to add new todo item?"
+  },
+  "addNewForm": {
+    "titleLabel": "Title of product",
+    "title": "Title",
+    "priceLabel": "Price of product",
+    "price": "Price",
+    "descriptionLabel": "Description of product",
+    "description": "Description"
+  },
+  "error": {    
+    "fieldRequired": "format is invalid",   
+    "formatIncorrect": "format is incorrect",   
+    "unknownError": "something happens"
+  }
+}
